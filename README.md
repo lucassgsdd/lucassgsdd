@@ -29,7 +29,7 @@ com foco em performance e experiência do usuário.
 
 ## 🧩 Sobre mim
 
-🧠 Desenvolvedor Front-End focado em criar interfaces modernas e performáticas  
+🧠 Desenvolvedor Full Stack focado em criar interfaces modernas e performáticas  
 
 - 🚀 Experiência prática com consumo de APIs REST e integração de sistemas  
 - 🧩 Desenvolvimento com React, Next.js e TypeScript, aplicando componentização e boas práticas  

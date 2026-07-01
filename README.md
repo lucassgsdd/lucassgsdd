@@ -41,5 +41,5 @@ com foco em performance e experiência do usuário.
 ---
 
 ## 📎 Portfólio
-👉 **Instagra:** https://www.instagram.com/lucas_do_hot/
+👉 **Instagra:** https://www.instagram.com/lucas_do_hot/ <br>
 👉 **Web Site:** https://lucas-do-hot.vercel.app/
